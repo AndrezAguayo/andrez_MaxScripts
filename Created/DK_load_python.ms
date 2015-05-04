@@ -1,0 +1,1 @@
+python.ExecuteFile "C:\Program Files\Autodesk\3ds Max 2015\scripts\Python\my_first_pySide_test_AA_4.py"
