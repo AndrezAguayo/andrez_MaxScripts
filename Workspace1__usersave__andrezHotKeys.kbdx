@@ -574,5 +574,6 @@
     <shortcut fVirt="3" accleleratorKey="103" actionID="SpringControl`San Tools" actionTableID="647394" />
     <shortcut fVirt="3" accleleratorKey="66" actionID="EPoly_SoftSel_Toggle`Editable Polygon Object" actionTableID="647394" />
     <shortcut fVirt="3" accleleratorKey="71" actionID="mGroup`M Group" actionTableID="647394" />
+    <shortcut fVirt="3" accleleratorKey="99" actionID="CycleActivePFlowEmission`JRandom" actionTableID="647394" />
     <shortcut fVirt="3" accleleratorKey="86" actionID="Viewports" actionTableID="1261319018" />
 </ADSK_KBD>
